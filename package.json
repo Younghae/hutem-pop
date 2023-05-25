@@ -9,12 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/server": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@iconscout/react-unicons": "^2.0.2",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.13.2",
     "@types/node": "20.2.3",
     "@types/react": "18.2.6",
     "@types/react-dom": "18.2.4",
+    "apexcharts": "^3.40.0",
+    "framer-motion": "^10.12.16",
     "next": "13.4.3",
     "react": "18.2.0",
+    "react-apexcharts": "^1.4.0",
+    "react-circular-progressbar": "^2.1.0",
     "react-dom": "18.2.0",
-    "typescript": "5.0.4"
+    "typescript": "5.0.4",
+    "web-vitals": "^3.3.1"
   }
 }
